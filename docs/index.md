@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Detector de Objetos App
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido a la documentación oficial de la aplicación **Detector de Objetos** desarrollada en Android con ML Kit.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 🔍 Funcionalidades principales
+- Detección de objetos en tiempo real con la cámara.
+- Etiquetado de imágenes desde galería.
+- Historial de detecciones y etiquetas almacenado en base de datos local.
+## 📂 Secciones disponibles
+- Instrucciones de uso.
+- Capturas del funcionamiento.
+- Fragmentos de código relevantes.
