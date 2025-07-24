@@ -1,0 +1,17 @@
+site_name: Detector de Objetos App
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Uso:
+      - Manual de Usuario: uso/manual-usuario.md
+      - Pantalla de Permisos: uso/1-permisos.jpeg
+      - Solicitud de Permisos: uso/2-permisos.jpeg
+      - Pantalla de Inicio: uso/3-pantalla-inicio.jpeg
+      - Menú de Opciones: uso/4-menu-opciones.jpeg
+      - Historial de Detecciones: uso/5-historial-detecciones.jpeg
+      - Etiquetado: uso/6-etiquetado.jpeg
+  - Desarrollo:
+      - Capturas de Pantallas: desarrollo/capturas.md
+      - Fragmentos de Código: desarrollo/codigo.md
